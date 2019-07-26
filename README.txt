@@ -11,7 +11,7 @@ Rodrigo Fabrício Meneses (376176 )
 
 Para executar o programa principal ou de teste
 é necessário seguir os seguintes passos, através
-do termina do linux:
+do terminal do linux:
 
 - navegar até a pasta do projeto
 - dentro da pasta do projeto executar os seguintes comandos:
